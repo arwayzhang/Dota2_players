@@ -1,0 +1,6 @@
+1.run CP_calc.py
+2.run players_combine_match.py
+3.run further_process_separate.py
+4.run further_process_together.py
+5.run hypothesis.py
+6.run classifier.py
